@@ -18,3 +18,4 @@ Github - это сайт куда мы можем отправлять всё ч
 Стягиваем изменения из удаленного репазитория
 1.git clone git@github.com:AdiletCH/Adipatch.git
 2.git pull origin master
+

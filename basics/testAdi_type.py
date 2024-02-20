@@ -156,7 +156,7 @@
 #             print(D)
 # print('stop') 
 
-bob = "DDaAFFnnEEiISSaArRCCGGAADDYYмчиысаткефряоутцеылфь "
-dod = ''.join([bob[i] for i in [1, 2, 7, 10, 14, 16, 21, 22, 27, 49, 28, 30, 32, 34, 36, 38, 49, 32, 40, 32, 33, 42, 44, 46, 48]])
-print(dod)
+# bob = "DDaAFFnnEEiISSaArRCCGGAADDYYмчиысаткефряоутцеылфь "
+# dod = ''.join([bob[i] for i in [1, 2, 7, 10, 14, 16, 21, 22, 27, 49, 28, 30, 32, 34, 36, 38, 49, 32, 40, 32, 33, 42, 44, 46, 48]])
+# print(dod)
 
